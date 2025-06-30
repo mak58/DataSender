@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/03/25 15:38:28.000.011,C:\Users\marcio.koehler\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\marcio.koehler\Documents\Embarcadero\Studio\Projects\SenderData\SenderData.dproj</Transaction>
+    <Transaction>2025/03/25 15:39:22.000.540,=D:\sky\Ted\fontesDX\share\EnviarArquivo.Form.pas</Transaction>
+    <Transaction>2025/03/25 15:42:14.000.022,=C:\Users\marcio.koehler\Documents\Embarcadero\Studio\Projects\SenderData\Unit1.pas</Transaction>
+    <Transaction>2025/03/25 15:42:29.000.317,C:\Users\marcio.koehler\Documents\Embarcadero\Studio\Projects\SenderData\Unit1.pas=C:\Users\marcio.koehler\Documents\Embarcadero\Studio\Projects\SenderData\RunSendingData.pas</Transaction>
+    <Transaction>2025/03/25 15:49:39.000.768,=D:\sky\Ted\fontesDX\modulos\centralON_Serp\CentralON_SERP.Functions.pas</Transaction>
+    <Transaction>2025/03/25 16:25:04.000.209,D:\sky\Ted\fontesDX\share\EnviarArquivo.Form.pas=</Transaction>
+    <Transaction>2025/03/25 16:25:14.000.993,=C:\EnviarArquivo.Form.pas</Transaction>
+    <Transaction>2025/03/25 16:26:14.000.142,=C:\Users\marcio.koehler\Documents\Embarcadero\Studio\Projects\SenderData\EnviarArquivo.Form.pas</Transaction>
+  </Transactions>
+</BorlandProject>
